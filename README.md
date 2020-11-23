@@ -1,5 +1,5 @@
 # put_io_lab
 [Jakub Gosławski](https://github.com/Goslawq/)
 
-26/10/2020 (dzisiaj)
+zadania w parach wykonywane z [Roman Oberenkowski](https://github.com/roman-oberenkowski/)
 
