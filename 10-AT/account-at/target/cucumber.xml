@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="8.374426">
+<testcase classname="Login." name="Login" time="4.784265">
+<system-out><![CDATA[Given I have cleared the database...........................................passed
+Given I have registered as user "jan" with password "jan", name "jan" and with address "ul. Kolorowa".passed
+Given I've moved to the login page..........................................passed
+When I fill the login form with username "jan" and password "jan", and I submit it.passed
+Then I should see the accounts-list page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register." name="Register" time="3.590161">
+<system-out><![CDATA[Given I have cleared the database...........................................passed
+Given I have moved to the register page.....................................passed
+When I fill the register form with username "jan" and password "jan", repeat password "jan", name "jan", address "ul. Kolorowa" and I submit it.passed
+Then I should see the login page............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
